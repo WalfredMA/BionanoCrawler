@@ -46,12 +46,6 @@ import getopt
 ##type of download data##
 want_type='Assembly'
 
-##login username##
-user='Irys'
-
-##login password##
-password='IrysV20A002'
-
 ##the column save as filename, can be jobname or assembly name##
 savename='name'
 
