@@ -2,7 +2,7 @@
 
 #######################usage of this script#################################
 #
-#script by walfred ma, Puilab, please do not share out without permission                                                                       		
+#script by walfred ma, Kwok lab, please do not share out without permission                                                                       		
 #this is a script recommand run on local computer instead of server 
 #please make sure you have 500Mb memory and efficient internet connection to ucsf inner network when running this
 #
