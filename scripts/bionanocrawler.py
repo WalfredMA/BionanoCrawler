@@ -169,9 +169,9 @@ class Bionanobrowser():
 		
 		time.sleep(3)
 		
-		self.browser.find_element_by_xpath('//input[@id="username"]').send_keys('Irys')
+		self.browser.find_element_by_xpath('//input[@id="username"]').send_keys(user)
 
-		self.browser.find_element_by_xpath('//input[@id="password"]').send_keys('IrysV20A002')
+		self.browser.find_element_by_xpath('//input[@id="password"]').send_keys(password)
 
 		self.browser.find_element_by_xpath('//input[@type="submit"]').submit()
 		
