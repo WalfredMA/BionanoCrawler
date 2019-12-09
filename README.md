@@ -1,4 +1,8 @@
 # BionanoCrawler
+
+//  Created by Walfred MA in 2019, wangfei.ma@ucsf.edu.
+//  Copyright © 2019 UCSF-Kwoklab. All rights reserved.
+
 Web Crawler for Bionano server
 #######################usage of this script#################################
 #
